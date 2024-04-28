@@ -1,0 +1,20 @@
+fastapi
+uvicorn
+
+pydantic
+
+pydantic-settings
+python-dotenv
+
+passlib # password hashing
+fastjwt # jwt tokens
+
+sqlalchemy
+redis
+redis-om # redis object mapping
+
+# dev-deps
+
+isort
+black
+flake8
